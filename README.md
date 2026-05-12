@@ -1,1 +1,1 @@
-## ENd - END project ml
+## for activating conda venv-conda activate venv/
